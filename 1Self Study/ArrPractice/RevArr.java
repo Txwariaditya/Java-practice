@@ -1,7 +1,7 @@
 package ArrPractice;
 import  java.util.Scanner;
 
-public class Revarr {
+public class RevArr {
     public static void main(String[] args) {
         System.out.println("Hello World");
         Scanner sc = new Scanner(System.in);

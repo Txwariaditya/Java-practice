@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Revarr",
+      "request": "launch",
+      "mainClass": "ArrPractice.Revarr",
+      "projectName": "Java_f32d5f63"
+    },
+    {
+      "type": "java",
       "name": "Pal",
       "request": "launch",
       "mainClass": "Pal",
