@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Pal",
+      "request": "launch",
+      "mainClass": "Pal",
+      "projectName": "Java_f32d5f63"
+    },
+    {
+      "type": "java",
       "name": "ArrayRotation",
       "request": "launch",
       "mainClass": "ArrDemo.ArrayRotation",
