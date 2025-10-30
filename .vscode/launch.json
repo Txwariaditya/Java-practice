@@ -1,0 +1,129 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ArrayRotation",
+      "request": "launch",
+      "mainClass": "ArrDemo.ArrayRotation",
+      "projectName": "Java_f32d5f63"
+    },
+    {
+      "type": "java",
+      "name": "Array",
+      "request": "launch",
+      "mainClass": "Array",
+      "projectName": "Java_f32d5f63"
+    },
+    {
+      "type": "java",
+      "name": "Abc",
+      "request": "launch",
+      "mainClass": "Abc",
+      "projectName": "Java_f32d5f63"
+    },
+    {
+      "type": "java",
+      "name": "Poly",
+      "request": "launch",
+      "mainClass": "Poly",
+      "projectName": "Java_e1b065e4"
+    },
+    {
+      "type": "java",
+      "name": "JaysApples",
+      "request": "launch",
+      "mainClass": "JaysApples",
+      "projectName": "Java_e1b065e4"
+    },
+    {
+      "type": "java",
+      "name": "Sets",
+      "request": "launch",
+      "mainClass": "Sets",
+      "projectName": "Java_e1b065e4"
+    },
+    {
+      "type": "java",
+      "name": "SpiralMatrix",
+      "request": "launch",
+      "mainClass": "SpiralMatrix",
+      "projectName": "Java_e1b065e4"
+    },
+    {
+      "type": "java",
+      "name": "MultiplyMatrix",
+      "request": "launch",
+      "mainClass": "MultiplyMatrix",
+      "projectName": "Java_e1b065e4"
+    },
+    {
+      "type": "java",
+      "name": "Cuboid_vol_area",
+      "request": "launch",
+      "mainClass": "Cuboid_vol_area",
+      "projectName": "Java_e1b065e4"
+    },
+    {
+      "type": "java",
+      "name": "Method_overriding",
+      "request": "launch",
+      "mainClass": "Method_overriding",
+      "projectName": "Java_e1b065e4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "Java_e1b065e4"
+    },
+    {
+      "type": "java",
+      "name": "Polymhorephism",
+      "request": "launch",
+      "mainClass": "Polymhorephism",
+      "projectName": "Java_e1b065e4"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "Java_e1b065e4"
+    },
+    {
+      "type": "java",
+      "name": "Inhertance",
+      "request": "launch",
+      "mainClass": "Inhertance",
+      "projectName": "Java_e1b065e4"
+    },
+    {
+      "type": "java",
+      "name": "Frequency",
+      "request": "launch",
+      "mainClass": "Frequency",
+      "projectName": "Java_e1b065e4"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Codes/Java",
+      "program": "d:/Codes/Java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

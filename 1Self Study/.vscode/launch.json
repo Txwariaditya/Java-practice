@@ -1,0 +1,136 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Revarr",
+      "request": "launch",
+      "mainClass": "ArrPractice.Revarr",
+      "projectName": "1Self Study_b643773b"
+    },
+    {
+      "type": "java",
+      "name": "SecondBiggest",
+      "request": "launch",
+      "mainClass": "ArrDem.SecondBiggest",
+      "projectName": "1Self Study_b643773b"
+    },
+    {
+      "type": "java",
+      "name": "BoubleSort",
+      "request": "launch",
+      "mainClass": "BoubleSort",
+      "projectName": "1Self Study_b643773b"
+    },
+    {
+      "type": "java",
+      "name": "HelloWord",
+      "request": "launch",
+      "mainClass": "HelloWord",
+      "projectName": "1Self Study_b643773b"
+    },
+    {
+      "type": "java",
+      "name": "Encapsulation",
+      "request": "launch",
+      "mainClass": "OOPs.Encapsulation",
+      "projectName": "1Self Study_b643773b"
+    },
+    {
+      "type": "java",
+      "name": "ReverseFibonacci",
+      "request": "launch",
+      "mainClass": "ReverseFibonacci",
+      "projectName": "1Self Study_b643773b"
+    },
+    {
+      "type": "java",
+      "name": "Pattern",
+      "request": "launch",
+      "mainClass": "Pattern",
+      "projectName": "1Self Study_b643773b"
+    },
+    {
+      "type": "java",
+      "name": "Inheritance",
+      "request": "launch",
+      "mainClass": "OOPs.Inheritance",
+      "projectName": "1Self Study_b643773b"
+    },
+    {
+      "type": "java",
+      "name": "Polymerphism",
+      "request": "launch",
+      "mainClass": "OOPs.Polymerphism",
+      "projectName": "1Self Study_b643773b"
+    },
+    {
+      "type": "java",
+      "name": "Keywords",
+      "request": "launch",
+      "mainClass": "OOPs.Keywords",
+      "projectName": "1Self Study_b643773b"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "1Self Study_b643773b"
+    },
+    {
+      "type": "java",
+      "name": "ArrayRotation",
+      "request": "launch",
+      "mainClass": "ArrDem.ArrayRotation",
+      "projectName": "1Self Study_b643773b"
+    },
+    {
+      "type": "java",
+      "name": "SymmetricMatrix",
+      "request": "launch",
+      "mainClass": "ArrDem.SymmetricMatrix",
+      "projectName": "1Self Study_b643773b"
+    },
+    {
+      "type": "java",
+      "name": "TransposeMatrix",
+      "request": "launch",
+      "mainClass": "ArrDem.TransposeMatrix",
+      "projectName": "1Self Study_b643773b"
+    },
+    {
+      "type": "java",
+      "name": "TwoDArray",
+      "request": "launch",
+      "mainClass": "ArrDem.TwoDArray",
+      "projectName": "1Self Study_b643773b"
+    },
+    {
+      "type": "java",
+      "name": "Frequency",
+      "request": "launch",
+      "mainClass": "ArrDem.Frequency",
+      "projectName": "1Self Study_b643773b"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Codes/Java/1Self Study",
+      "program": "d:/Codes/Java/1Self Study/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
